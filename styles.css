@@ -1,0 +1,41 @@
+body {
+  font-family: "Manrope", sans-serif;
+}
+
+.active {
+  color: #ff4240;
+}
+
+.text-primary {
+  color: #ff4240;
+}
+
+.text-lightened-white {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.bg-gray {
+  background: rgba(19, 19, 24, 0.03);
+}
+.text-gray {
+  color: rgba(19, 19, 24, 0.6);
+}
+.button-primary {
+  background-color: #ff4240;
+  border-radius: 8px;
+  padding: 15px 25px;
+  outline: none;
+  border: none;
+  color: white;
+}
+
+/* .section-padding-x {
+  margin-inline: 16px;
+}
+
+@media screen and (min-width: 1024px) {
+  .section-padding-x {
+    margin-inline: 35px;
+  }
+} */
+/* end of commont styles */
